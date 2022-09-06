@@ -1,0 +1,17 @@
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\bin\Debug\QuanLyCuaHangViTinh.exe.config
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\bin\Debug\QuanLyCuaHangViTinh.exe
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\bin\Debug\QuanLyCuaHangViTinh.pdb
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.csproj.AssemblyReference.cache
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.csproj.SuggestedBindingRedirects.cache
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmLogin.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.Properties.Resources.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.csproj.GenerateResource.cache
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.csproj.CoreCompileInputs.cache
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.exe
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.pdb
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmMain.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmKhachHang.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmSanPham.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmNhaCungCap.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmNhanVien.resources
+D:\University\C#\QuanLyCuaHangViTinh\QuanLyCuaHangViTinh\obj\Debug\QuanLyCuaHangViTinh.frmBaoHanh.resources
